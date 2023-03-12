@@ -1,0 +1,15 @@
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\obj\Debug\net6.0\TP_MOD4.csproj.AssemblyReference.cache
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\obj\Debug\net6.0\TP_MOD4.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\obj\Debug\net6.0\TP_MOD4.AssemblyInfoInputs.cache
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\obj\Debug\net6.0\TP_MOD4.AssemblyInfo.cs
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\obj\Debug\net6.0\TP_MOD4.csproj.CoreCompileInputs.cache
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\bin\Debug\net6.0\TP_MOD4.exe
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\bin\Debug\net6.0\TP_MOD4.deps.json
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\bin\Debug\net6.0\TP_MOD4.runtimeconfig.json
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\bin\Debug\net6.0\TP_MOD4.dll
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\bin\Debug\net6.0\TP_MOD4.pdb
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\obj\Debug\net6.0\TP_MOD4.dll
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\obj\Debug\net6.0\refint\TP_MOD4.dll
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\obj\Debug\net6.0\TP_MOD4.pdb
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\obj\Debug\net6.0\TP_MOD4.genruntimeconfig.cache
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 4\TP_MOD4\TP_MOD4\obj\Debug\net6.0\ref\TP_MOD4.dll
